@@ -1,0 +1,6 @@
+*.pyc
+*.ipynb_checkpoints
+.ipynb_checkpoints
+READMEINPUT.md
+train.csv
+test.csv
